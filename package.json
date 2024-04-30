@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/RyanNerd/react-new-improved-window.git"
   },
-  "main": "./lib/cjs/index.js",
+  "type": "module",
   "module": "./lib/esm/index.js",
   "types": "./lib/esm/index.d.ts",
   "scripts": {
