@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RyanNerd/react-new-improved-window.git"
+    "url": "git+https://github.com/reperiohealth/react-portal-window.git"
   },
   "type": "module",
   "module": "./lib/esm/index.js",
@@ -21,6 +21,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
+    "prepublishOnly": "npm run build",
     "lint": "tslint -p tsconfig.json"
   },
   "author": "Ryan Jentzsch",
