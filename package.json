@@ -1,6 +1,6 @@
 {
-  "name": "react-new-improved-window",
-  "version": "0.2.9",
+  "name": "react-portal-window",
+  "version": "0.3.0",
   "description": "React component to invoke a new window",
   "keywords": [
     "react",
