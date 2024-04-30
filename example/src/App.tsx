@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import NewImprovedWindow from "react-new-improved-window";
+import NewImprovedWindow from "react-portal-window";
 
 function App() {
     const [show, setShow] = useState(false);
